@@ -1,4 +1,5 @@
-# Ex.No: 1B                     CONVERSION OF NON STATIONARY TO STATIONARY DATA
+# Ex.No: 1B CONVERSION OF NON STATIONARY TO STATIONARY DATA
+
 ### Name:Nivetha A
 ### Register No: 212222230101
 
@@ -65,8 +66,6 @@ train['#Passengers_log_diff'].dropna().plot()
 
 ![image](https://github.com/user-attachments/assets/c05b0246-e203-4888-a127-a61bd1d8ca93)
 
-### COMBINED GRAPH:
-![image](https://github.com/user-attachments/assets/e829c344-7a66-4395-97b4-b11e5e5a97e7)
 
 
 ### RESULT:
