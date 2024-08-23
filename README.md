@@ -48,12 +48,6 @@ train['#Passengers_log_diff'].dropna().plot()
 
 ### OUTPUT:
 
-
-
-![image](https://github.com/user-attachments/assets/d5c0abcd-22ac-4db8-af29-638a5ca90918)
-
-![image](https://github.com/user-attachments/assets/3e72fa48-db52-4fe1-a8e1-7adb1db17181)
-
 ### REGULAR DIFFERENCING:
 ![image](https://github.com/user-attachments/assets/5adb711c-fed8-47f9-8734-08d7aed40d3b)
 
