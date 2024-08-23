@@ -1,6 +1,6 @@
 # Ex.No: 1B CONVERSION OF NON STATIONARY TO STATIONARY DATA
 
-### Name:Nivetha A
+### Name: Nivetha A
 ### Register No: 212222230101
 
 ### AIM:
@@ -45,22 +45,17 @@ train['#Passengers_log'] = np.log(train['#Passengers'])
 train['#Passengers_log_diff'] = train['#Passengers_log'] - train['#Passengers_log'].shift(1)
 train['#Passengers_log_diff'].dropna().plot()
 ```
-
 ### OUTPUT:
 
 ### REGULAR DIFFERENCING:
 ![image](https://github.com/user-attachments/assets/5adb711c-fed8-47f9-8734-08d7aed40d3b)
 
-
 ### SEASONAL ADJUSTMENT:
 ![image](https://github.com/user-attachments/assets/4c7d73c2-e1d3-4fd5-8d5c-aceb91490ef7)
-
 
 ### LOG TRANSFORMATION:
 
 ![image](https://github.com/user-attachments/assets/c05b0246-e203-4888-a127-a61bd1d8ca93)
-
-
 
 ### RESULT:
 Thus we have created the python code for the conversion of non stationary to stationary data on international airline passenger
