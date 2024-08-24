@@ -1,7 +1,8 @@
-# Ex.No: 1B CONVERSION OF NON STATIONARY TO STATIONARY DATA
-
 ### Name: Nivetha A
 ### Register No: 212222230101
+### DATE:
+
+# Ex.No: 1B CONVERSION OF NON STATIONARY TO STATIONARY DATA
 
 ### AIM:
 To perform regular differncing,seasonal adjustment and log transformatio on international airline passenger data
